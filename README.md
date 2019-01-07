@@ -11,13 +11,13 @@ CMTM is a novel multi-view cross-modality method.
 
 If you use the code, we appreciate it if you cite an appropriate subset of the following papers:
 
-@inproceedings{cui2018multi,
-  title={Multi-View Fusion Through Cross-Modal Retrieval},
-  author={Cui, Limeng and Chen, Zhensong and Zhang, Jiawei and He, Lifang and Shi, Yong and Philip, S Yu},
-  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
-  pages={1977--1981},
-  year={2018},
-  organization={IEEE}
+@inproceedings{cui2018multi,<br />
+&nbsp;&nbsp;title={Multi-View Fusion Through Cross-Modal Retrieval},<br />
+&nbsp;&nbsp;author={Cui, Limeng and Chen, Zhensong and Zhang, Jiawei and He, Lifang and Shi, Yong and Philip, S Yu},<br />
+&nbsp;&nbsp;booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},<br />
+&nbsp;&nbsp;pages={1977--1981},<br />
+&nbsp;&nbsp;year={2018},<br />
+&nbsp;&nbsp;organization={IEEE}<br />
 }
 
 ###################################################################
